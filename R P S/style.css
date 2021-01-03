@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+    text-align: center;
+    background-color: rgb(210, 232, 252);
+}
+.game{
+    width: 30%;
+    display: inline-block;
+    margin: 15px;
+}
+.game:hover{
+    cursor: pointer;
+}
